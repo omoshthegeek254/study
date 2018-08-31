@@ -5,4 +5,4 @@
 
 @section ('content')
 <p>This is Admin index page </p>
-@endsection
+@endsection   
